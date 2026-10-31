@@ -30,3 +30,12 @@ giorno) e avvisa quando c'è una nuova versione. Il controllo si può
 disattivare dal menu **StageDesigner → Controlla aggiornamenti all'avvio**.
 
 Questo repository contiene solo le release; il codice sorgente è privato.
+
+## Offrimi un caffè ☕
+
+StageDesigner è gratuito. Se ti è utile e vuoi sostenerne lo sviluppo, puoi
+offrirmi un caffè su PayPal: **[paypal.me/grassinicristiano](https://paypal.me/grassinicristiano)**
+(anche dal menu **StageDesigner → Offrimi un caffè…**).
+
+*StageDesigner is free. If you find it useful, you can buy me a coffee on
+PayPal.*
